@@ -1,2 +1,2 @@
 Changes:
-- new hero: captain and priest
+- new hero: general and priest
